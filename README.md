@@ -1,1 +1,2 @@
 # DataScienceProjects
+Here you can find sample data science projects that I have covered for my clients. Although the total number of projects conducted are much higher most can not be provided publicly due to NDA with clients. 
